@@ -10,6 +10,10 @@ https://github.com/analudms/Pokedex.git
   <img alt="Pokedex Image" src="https://github.com/analudms/Pokedex/blob/main/images/pokedexgit.png" width="80%">
 </p>
 
+## Como acessar o projeto? 🤔
+
+Basta clicar [AQUI](https://pokedex-556wayymv-analudms.vercel.app/) que você será direcionado!
+
 # Tecnologias utilizadas 💻
 - HTML.
 - CSS.
